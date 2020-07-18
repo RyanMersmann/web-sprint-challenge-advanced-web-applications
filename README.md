@@ -28,9 +28,20 @@ Commit your code regularly and meaningfully. This helps both you (in case you ev
 Be prepared to demonstrate your understanding of this week's concepts by answering questions on the following topics. You might prepare by writing down your own answers before hand.
 
 1. Explain what a token is used for.
+
+A token is used for client-server authentication. This authentication allows the server to communicate with clients that are verified by said token. Its like showing an ID to prove who you are.
+
 2. What steps can you take in your web apps to keep your data secure?
+
+Using JSON tokens to authorize use of a protected database endpoint.
+
 3. Describe how web servers work.
+
+Web Servers comunicate back and forth with the client, and your your computer. You would send a request for a website using the a DNS which would then send for access to the website to the nearest server where that website is stored. That server would then send back a packet of data, saying it was a good send 200, which would be the home page of the website you are trying to access. You then log in sending another response to access the protected endpoints. The server verifies you as a registered user and sends a token confirming log in and allowing you access.
+
 4. Which HTTP methods can be mapped to the CRUD acronym that we use when interfacing with APIs/Servers.
+
+Post - Create Get - Read Put - Update Delete - Delete
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade. 
 
