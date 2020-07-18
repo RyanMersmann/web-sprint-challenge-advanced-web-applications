@@ -41,7 +41,7 @@ Web Servers comunicate back and forth with the client, and your your computer. Y
 
 4. Which HTTP methods can be mapped to the CRUD acronym that we use when interfacing with APIs/Servers.
 
-Post - Create Get - Read Put - Update Delete - Delete
+  Post - Create Get - Read Put - Update Delete - Delete
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade. 
 
