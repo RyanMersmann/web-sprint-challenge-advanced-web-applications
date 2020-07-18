@@ -51,18 +51,18 @@ You are expected to be able to answer questions in these areas. Your responses c
 
 > This section should include instruction for the sprint challenge. These should only cover things that are _not_ being evaluated by the challenge itself, e.g. environment/project setup, link to a starter project, etc. In general, this will be the following Git fork, clone, branch, commit, push, create pull request flow, though may need to be adapted for some specific challenges.
 
-- [ ] Create a forked copy of this project
-- [ ] Add your team lead as collaborator on Github
-- [ ] Clone your OWN version of the repository (Not Lambda's by mistake!)
-- [ ] Create a new branch: git checkout -b `<firstName-lastName>`.
-- [ ] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly
-- [ ] Push commits: git push origin `<firstName-lastName>`
-- [ ] **RUN** npm install at the root to retrieve all the dependencies for the node server. You will not need to create any react apps here nor will you need to install any other dependencies. You should have all you need in this repo.
-- [ ] **LOOK** at all the files you've been given for this project. One important file to note is server.js. This file contains an API that you are going to be interfacing with. Below is documentation on how to interact with the API.
-- [ ] **RUN** npm start to get your API up and running on http://localhost:5000. This is the URL you're going to need to use within your React app in order to make AJAX requests for data.
- - [ ] **LOOK** at your client directory and notice it's just a plain ol' React App that we've built using create-react-app.
+- [done] Create a forked copy of this project
+- [done] Add your team lead as collaborator on Github
+- [done] Clone your OWN version of the repository (Not Lambda's by mistake!)
+- [done] Create a new branch: git checkout -b `<firstName-lastName>`.
+- [done] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly
+- [done] Push commits: git push origin `<firstName-lastName>`
+- [done] **RUN** npm install at the root to retrieve all the dependencies for the node server. You will not need to create any react apps here nor will you need to install any other dependencies. You should have all you need in this repo.
+- [done] **LOOK** at all the files you've been given for this project. One important file to note is server.js. This file contains an API that you are going to be interfacing with. Below is documentation on how to interact with the API.
+- [done] **RUN** npm start to get your API up and running on http://localhost:5000. This is the URL you're going to need to use within your React app in order to make AJAX requests for data.
+ - [done] **LOOK** at your client directory and notice it's just a plain ol' React App that we've built using create-react-app.
  cd into client and run npm install to retrieve the client side dependencies.
- - [ ] **RUN** npm start to fire up your React application.
+ - [done] **RUN** npm start to fire up your React application.
 
 ### Task 2: Project Requirements
 
